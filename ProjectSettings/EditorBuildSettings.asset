@@ -17,19 +17,16 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/FPS/Scenes/MainScene.unity
     guid: d794a2ef8ba31d847ad3c19d03e2ddb9
-  - enabled: 1
-    path: Assets/Scenes/IntroMenu.unity
-    guid: 69621536cee96bb4e90e6513df7eb9cf
-  - enabled: 1
-    path: Assets/Scenes/Info1.unity
-    guid: 83b30ee5ee39f8f4c9682e943a5dc5f2
-  - enabled: 1
-    path: Assets/Scenes/Info2.unity
-    guid: d8aadabc531fb424a9fd9d09ac3000ad
-  - enabled: 1
-    path: Assets/Scenes/Nivel1.unity
-    guid: b2dc3c66e31a36b439bb74d32ce4f4c5
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Nivel2.unity
     guid: e7c3784cd1a906740833f84615f5fe3d
+  - enabled: 1
+    path: Assets/Scenes/Nivel3.unity
+    guid: 031e95e51a117a44abac8da667b34427
+  - enabled: 1
+    path: Assets/Scenes/IntroMenu.unity
+    guid: 69621536cee96bb4e90e6513df7eb9cf
   m_configObjects: {}
